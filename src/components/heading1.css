@@ -1,0 +1,7 @@
+.heading1-container {
+  display: flex;
+  position: relative;
+}
+.heading1-heading {
+  text-align: justify;
+}

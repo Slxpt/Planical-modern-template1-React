@@ -1,0 +1,15 @@
+.branding-branding {
+  width: 120px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  background-size: cover;
+  background-image: url("/playground_assets/planical7012-ttpb.svg");
+  background-position: center;
+}
+.branding-image {
+  width: 155px;
+  height: 27px;
+  object-fit: cover;
+}
+
