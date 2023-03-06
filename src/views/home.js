@@ -123,16 +123,9 @@ const Home = (props) => {
           <div className="home-front side"></div>
           <div className="home-left side"></div>
         </div>
-      </section>
-      <section className="home-section4">
-        <div className="home-cube1">
-          <div className="home-top1 side"></div>
-          <div className="home-front1 side"></div>
-          <div className="home-left1 side"></div>
-        </div>
         <main className="home-pricing">
           <header className="home-header3">
-            <header className="home-left2">
+            <header className="home-left1">
               <span className="section-head">Pricing</span>
               <h2 className="section-heading home-heading1">
                 Start small, think big
@@ -159,22 +152,8 @@ const Home = (props) => {
           </div>
         </div>
       </section>
-      <section className="home-section6">
+      <section className="home-section5">
         <header className="home-header4">
-          <header className="home-left3"></header>
-          <div className="home-right1"></div>
-        </header>
-        <main className="home-cards">
-          <div className="home-container6"></div>
-          <div className="home-container7"></div>
-          <div className="home-container8"></div>
-        </main>
-        <div className="home-view-more">
-          <p className="home-text05">View more</p>
-        </div>
-      </section>
-      <section className="home-section7">
-        <header className="home-header5">
           <span className="section-head">FAQ</span>
           <h2 className="home-heading2 section-heading">
             Frequently asked questions
@@ -189,9 +168,9 @@ const Home = (props) => {
           <main className="home-main-content">
             <div className="home-content3">
               <header className="home-main1">
-                <div className="home-header6">
+                <div className="home-header5">
                   <Branding rootClassName="branding-root-class-name"></Branding>
-                  <span className="home-text06">
+                  <span className="home-text05">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                   </span>
                 </div>
@@ -203,7 +182,7 @@ const Home = (props) => {
               </header>
               <header className="home-categories">
                 <div className="home-category">
-                  <div className="home-header7">
+                  <div className="home-header6">
                     <span className="footer-header">Solutions</span>
                   </div>
                   <div className="home-links">
@@ -217,7 +196,7 @@ const Home = (props) => {
                   </div>
                 </div>
                 <div className="home-category1">
-                  <div className="home-header8">
+                  <div className="home-header7">
                     <span className="footer-header">Company</span>
                   </div>
                   <div className="home-links1">
@@ -227,7 +206,7 @@ const Home = (props) => {
               </header>
             </div>
             <section className="home-copyright">
-              <span className="home-text15">
+              <span className="home-text14">
                 © 2022 AzaraAds. All Rights Reserved.
               </span>
             </section>
@@ -242,8 +221,8 @@ const Home = (props) => {
                   className="home-textinput input"
                 />
                 <div className="home-buy button">
-                  <span className="home-text16">-&gt;</span>
-                  <span className="home-text17">
+                  <span className="home-text15">-&gt;</span>
+                  <span className="home-text16">
                     <span>Subscribe now</span>
                     <br></br>
                   </span>
@@ -256,7 +235,7 @@ const Home = (props) => {
             </h1>
           </main>
           <section className="home-copyright1">
-            <span className="home-text20">
+            <span className="home-text19">
               © 2022 latitude. All Rights Reserved.
             </span>
           </section>
